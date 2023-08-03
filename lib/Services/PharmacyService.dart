@@ -4,7 +4,7 @@ import 'package:hospitalappointmentsystem/Models/pharmacyModel.dart';
 class PharmacyService {
   Future<List<PharmacyModel>?> fetchPharmacy() async {
        final response = await Dio().get(
-        "https://www.nosyapi.com/apiv2/pharmacyLink?city=istanbul&county=fatih&apikey=bCPitAQIzqO4f1Igt9swGt5or0BqQaRM8m3YywfLfiMw4Eq5aSITh0gV0K21",
+        "API KEY",
     );
  
     if (response.statusCode == 200) {
