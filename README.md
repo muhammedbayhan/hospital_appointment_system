@@ -1,4 +1,4 @@
-# hospital_appointment_system
+## hospital_appointment_system
 ![ss](https://github.com/muhammedbayhan/hospital_appointment_system/blob/main/screenshot/Screenshot_1.png)
 ![ss](https://github.com/muhammedbayhan/hospital_appointment_system/blob/main/screenshot/Screenshot_2.png)
 ![ss](https://github.com/muhammedbayhan/hospital_appointment_system/blob/main/screenshot/Screenshot_3.2.png)
